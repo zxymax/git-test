@@ -1,3 +1,3 @@
 #### gitee
 learn gitee 😄
-so I like it.
+and I like it.
